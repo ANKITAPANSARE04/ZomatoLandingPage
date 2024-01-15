@@ -516,5 +516,7 @@
     }
 }
 @media only screen and (max-width: 600px){
-.hero__section_input_container{display: block} 
+
+.hero__section_input_container{ 
+    display: block !important;}
 }
