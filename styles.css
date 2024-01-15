@@ -515,3 +515,6 @@
             grid-template-columns: repeat(1, 1fr);
     }
 }
+@media only screen and (max-width: 600px){
+.hero__section_input_container{display: block} 
+}
